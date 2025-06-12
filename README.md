@@ -1,8 +1,10 @@
+# Hello GitHub!😀
+
 - 👋 Hi, I’m @AlexYc06, a freshman(*^_^*) (2025/6)
-- 👀 I’m interested in analysis and deep learning
+- 👀 I’m interested in analysis
 - 🌱 My major is civil engineering and mathematics
 - 📫 How to reach me: I have an Outlook account
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm in one of the best college of civil engineering, but I wanna change my major...
 
 <!---
