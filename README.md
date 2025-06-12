@@ -2,7 +2,7 @@
 - 👀 I’m interested in analysis and deep learning
 - 🌱 My major is civil engineering and mathematics
 - 📫 How to reach me: I have an Outlook account
-- 😄 Pronouns: noob, willing to learn
+- 😄 Pronouns: he
 - ⚡ Fun fact: I'm in one of the best college of civil engineering, but I wanna change my major...
 
 <!---
