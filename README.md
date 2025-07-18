@@ -1,11 +1,11 @@
 # Hello GitHub!😀
 
-- 👋 Hi, I’m @AlexYc06, a freshman(*^_^*) (2025/6)
-- 👀 I’m interested in analysis
-- 🌱 My major is civil engineering and mathematics
+- 👋 Hi, I’m @AlexYc06, a sophomore(*^_^*) (2025/9)
+- 👀 I’m interested in analysis and AI
+- 🌱 My major is mathematical statistics
 - 📫 How to reach me: I have an Outlook account
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm in one of the best college of civil engineering, but I wanna change my major...
+- ⚡ I'm studying math courses, MATLAB and machine learning
 
 <!---
 AlexYc06/AlexYc06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
