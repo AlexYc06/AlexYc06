@@ -5,7 +5,7 @@
 - 🌱 I major in statistics
 - 📫 How to reach me: Outlook or tongji email
 - ⚡ I'm studying math and statistic courses, as well as starting out in statistical research
-- Welcome to my homepage for further info~
+- Welcome to [my homepage](https://alexyc06.github.io/) for further info~
 
 <!---
 AlexYc06/AlexYc06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
